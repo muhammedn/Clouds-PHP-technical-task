@@ -26,8 +26,6 @@ record.
 
 ### Submiting the code
 
-Push your code to any version control (git) website (GitLab, GitHub, Bitbucket) with commits.
-
+1. Push your code to any version control (git) website (GitLab, GitHub, Bitbucket) with commits.
 2. Make sure the repo is publicly accessible.
-
 3. Send the link of the git project to the following email: mohamed.nasser@clouds.com.kw 
