@@ -2,7 +2,7 @@
 
 ### Techincal task
 
-Create a Laravel 7.0+ project with any admin template theme.
+Create a Laravel 8.0+ project with any admin template theme.
 
 The application will be a simple application that the customer can sign up and subscribe
 to a recurring payment plan, and the admin can view, update, deactivate and delete any
