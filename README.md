@@ -21,6 +21,9 @@ with the customer name or email.
 record.
 8. Deactivated customers can’t log in.
 
+## Bonus: 
+Generate a pdf invoice (support Arabic chars) after user registration . 
+
 
 ***You can use Laravel Cashier for payment processing.***
 
